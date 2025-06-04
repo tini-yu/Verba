@@ -1,0 +1,12 @@
+[submodule "Mobile_app"]
+	path = Mobile_app
+	url = https://github.com/Boniiek/audioGid
+[submodule "Main_gin_server"]
+	path = Main_gin_server
+	url = https://github.com/MaksimMyakishevv/go_project
+[submodule "Silero_TTS"]
+	path = Silero_TTS
+	url = https://github.com/tini-yu/Silero-TTS
+[submodule "Mistral_LLM"]
+	path = Mistral_LLM
+	url = https://github.com/tini-yu/Mistral-LLM
